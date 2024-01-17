@@ -8,7 +8,7 @@ from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 from lists_teletips.quotes_teletips import *
 from lists_teletips.emojis_teletips import *
-from PIL import Image, ImageDraw, ImageFont
+
 import datetime
 import pytz
 import asyncio
