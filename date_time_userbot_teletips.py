@@ -25,7 +25,7 @@ Date_Time_Userbot_teletips=Client(
     session_string = ("AgE6BQ8AGoSbD2NO5N4WnzWSD99eNMLxJcs6ik6YvHeWcgWlPWPgQHmFYV86PT8YPpcC_1RfcI3WAXAnpIg5RTZ8kLrkBTLiLXxkpxaFjDC6XvRUcMFCxjVkHg00XxwtTYqy5cqUmwRG6AQ2P56_qemL25byqPQiYB_wppTCMU7zQ-fOKmkJkJrglv54aDU20qpiWDq-8rDB4UG5sQUqn3oeqOoFKcFq2-D--B03FLIrm-AJVe7_Hv06YP7AxjBhefbDpHHg-5Cn28GIkm9E9z16P7Tg_rKX5IM7OMlL9JgMLqCGIOXX7241VXiCW4wbvUtFcvnJ1aCJ2UcggO6CmnYYtJQOAAAAAAF8ttsGAA"),
 )
 
-Time_Zone = "Asia/Baku1"
+Time_Zone = "Asia/Baku"
 
 async def main_teletips():
     try:
