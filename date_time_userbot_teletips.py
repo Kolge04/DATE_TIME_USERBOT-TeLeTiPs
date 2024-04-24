@@ -17,12 +17,12 @@ import os
 
 Date_Time_Userbot_teletips=Client(
     name = "date_time_userbot_teletips",
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"],
-    session_string = os.environ["SESSION_STRING"]
+    api_id = ["20579599"],
+    api_hash = ["1aa27b6f1b81976b64bab89784e52b21"],
+    session_string = ["AgE6BQ8AGoSbD2NO5N4WnzWSD99eNMLxJcs6ik6YvHeWcgWlPWPgQHmFYV86PT8YPpcC_1RfcI3WAXAnpIg5RTZ8kLrkBTLiLXxkpxaFjDC6XvRUcMFCxjVkHg00XxwtTYqy5cqUmwRG6AQ2P56_qemL25byqPQiYB_wppTCMU7zQ-fOKmkJkJrglv54aDU20qpiWDq-8rDB4UG5sQUqn3oeqOoFKcFq2-D--B03FLIrm-AJVe7_Hv06YP7AxjBhefbDpHHg-5Cn28GIkm9E9z16P7Tg_rKX5IM7OMlL9JgMLqCGIOXX7241VXiCW4wbvUtFcvnJ1aCJ2UcggO6CmnYYtJQOAAAAAAF8ttsGAA"]
 )
 
-Time_Zone = os.environ["TIME_ZONE"]
+Time_Zone = os.environ["Asia/Baku"]
 
 async def main_teletips():
     try:
