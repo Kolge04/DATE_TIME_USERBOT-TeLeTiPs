@@ -29,7 +29,7 @@ Date_Time_Userbot_teletips=Client(
     session_string = os.environ["SESSION_STRING"]
 )
 
-Time_Zone = os.environ["Asia/Baku1"]
+Time_Zone = ["Asia/Baku1"]
 
 async def main_teletips():
     try:
