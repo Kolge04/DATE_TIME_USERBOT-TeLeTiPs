@@ -16,20 +16,16 @@ import random
 import os
 
 
-SESSION_STRING = "AgC6Un0AkCyV7TAXZ3OFLIMakARY-u90xzzNyiffwCnhecK2yL33--igWZK62VF6pwkYeLNkRqjCD_NT9WBy9VRO732xnNqepBhc_Xr8JxPQ-251FgrN9UiiAZjvsxYuZ631aGIP2gcM0QZCABPpHU6sqgLtwTIKHBB3r_1G3jAmiYh4vA0zQW_Hvs-RYOMGSPCPxwdRQD5TL96GVYE-LZDazxpZdtPCAp-OHO0k-97AL_mNWMUII2VPc9Njj81QlZHZT6E3rgIaaoKP3zFKoeWeO4kU77dwEvt0lSIbUXtcZYRH2mQQPG_JLe9Vc_Q-5M5QYeC16R6z3HduQxKsoK8mNVk_tAAAAAFRk3SoAA"
-API_HASH = "e42eeae11a2f96bcfc5ec3b46a30adad"
-API_ID = 12210813
-
 
 
 Date_Time_Userbot_teletips=Client(
     name = "date_time_userbot_teletips",
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"],
-    session_string = os.environ["SESSION_STRING"]
+    api_id = ("20579599"),
+    api_hash = ("1aa27b6f1b81976b64bab89784e52b21"),
+    session_string = ("AgE6BQ8AGoSbD2NO5N4WnzWSD99eNMLxJcs6ik6YvHeWcgWlPWPgQHmFYV86PT8YPpcC_1RfcI3WAXAnpIg5RTZ8kLrkBTLiLXxkpxaFjDC6XvRUcMFCxjVkHg00XxwtTYqy5cqUmwRG6AQ2P56_qemL25byqPQiYB_wppTCMU7zQ-fOKmkJkJrglv54aDU20qpiWDq-8rDB4UG5sQUqn3oeqOoFKcFq2-D--B03FLIrm-AJVe7_Hv06YP7AxjBhefbDpHHg-5Cn28GIkm9E9z16P7Tg_rKX5IM7OMlL9JgMLqCGIOXX7241VXiCW4wbvUtFcvnJ1aCJ2UcggO6CmnYYtJQOAAAAAAF8ttsGAA"),
 )
 
-Time_Zone = ["Asia/Baku1"]
+Time_Zone = "Asia/Baku1"
 
 async def main_teletips():
     try:
